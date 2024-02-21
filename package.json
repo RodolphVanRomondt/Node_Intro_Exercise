@@ -1,0 +1,11 @@
+{
+  "name": "intro-exercise",
+  "version": "1.0.0",
+  "description": "Node Intro Exercise",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RodolphVanRomondt",
+  "license": "ISC"
+}
