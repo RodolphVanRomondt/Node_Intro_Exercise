@@ -1,6 +1,6 @@
 const fs = require("fs")
 const axios = require("axios");
-const { execPath } = require("process");
+// const { execPath } = require("process");
 
 function cat(path) {
 
